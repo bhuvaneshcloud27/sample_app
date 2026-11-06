@@ -24,7 +24,7 @@ $result = $conn->query($query);
 <div class="container">
     <div class="text-center mb-4">
         <h2>📝 My Tasks</h2>
-        <p class="text-muted">Simple PHP/MySQL App</p>
+        <p class="text-muted">todo list</p>
     </div>
 
     <!-- Add Task Form -->
